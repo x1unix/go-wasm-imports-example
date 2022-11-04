@@ -1,0 +1,5 @@
+*.wasm
+wasm_exec.js
+textflag.h
+node_modules
+.idea

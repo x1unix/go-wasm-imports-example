@@ -1,0 +1,22 @@
+{
+  "name": "go-wasm-imports-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wasm_exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x1unix/go-wasm-imports-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x1unix/go-wasm-imports-example/issues"
+  },
+  "homepage": "https://github.com/x1unix/go-wasm-imports-example#readme",
+  "dependencies": {
+    "@peculiar/webcrypto": "^1.4.1"
+  }
+}
